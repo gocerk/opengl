@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/kaan/Desktop/newopengl/build",
+  "command": "/usr/bin/c++   -I/home/kaan/Desktop/newopengl/include  -g   -o CMakeFiles/newopengl.dir/src/main.cpp.o -c /home/kaan/Desktop/newopengl/src/main.cpp",
+  "file": "/home/kaan/Desktop/newopengl/src/main.cpp"
+},
+{
+  "directory": "/home/kaan/Desktop/newopengl/build",
+  "command": "/usr/bin/c++   -I/home/kaan/Desktop/newopengl/include  -g   -o CMakeFiles/newopengl.dir/src/library.cpp.o -c /home/kaan/Desktop/newopengl/src/library.cpp",
+  "file": "/home/kaan/Desktop/newopengl/src/library.cpp"
+},
+{
+  "directory": "/home/kaan/Desktop/newopengl/build",
+  "command": "/usr/bin/cc  -I/home/kaan/Desktop/newopengl/include  -g   -o CMakeFiles/newopengl.dir/src/glad.c.o   -c /home/kaan/Desktop/newopengl/src/glad.c",
+  "file": "/home/kaan/Desktop/newopengl/src/glad.c"
+}
+]
