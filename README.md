@@ -1,2 +1,2 @@
 # opengl
-this repo made for my opengl code 
+basic opengl code for learn opengl
